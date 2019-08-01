@@ -1,5 +1,6 @@
 # memory_allocator
 ### Kernel-level memory allocator
+Thread_local cache and quick slow path algorithm.  
 #### The memory allocator has the following layers.  
 1.Kernel layer e.g glibc  
 2.malloc/tcmalloc layel  
